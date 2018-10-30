@@ -1,7 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Boffee
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
@@ -69,6 +68,8 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: sdgfsdfgsdfgsdfgsdfgsdfgsdfg
+    quote: sdfgdfgsdfg
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -99,3 +100,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
